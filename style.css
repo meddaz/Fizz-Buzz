@@ -1,0 +1,41 @@
+body {
+    background-color:#a2b9bc;
+    color: black;
+    text-align: center;
+
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+}
+p {
+    font-family: 'Fresca', sans-serif;
+
+    font-size: 20px;
+
+    
+}
+
+#display {
+    font-size: 30px;
+    font-family: 'Fresca', sans-serif;
+
+}
+
+input {
+    font-size: 20px;
+    background-color: lightgray;
+    color: black;
+    width: 60px;
+
+}
+
+#instructions {
+    border-top: 2px solid lightgray;
+    border-bottom: 2px solid lightgray;
+}
+
+button {
+    font-size: 18px;
+}
